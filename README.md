@@ -1,8 +1,6 @@
 <h1>🌸 Hi there! 🌸 </h1>
 
-I am an aspiring <b>front-end developer</b>. 
-
- 🍃 I recently recerived a certification for respsonsive web design and am currently taking a course on JavaScript. 
+I am a junior <b>front-end developer</b>. 
 
  🍃 After teaching for 2 years, I decided to step out of my comfort zone and into a career path where I can pair my drive with passion. 
 
